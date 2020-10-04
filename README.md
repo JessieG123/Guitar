@@ -8,6 +8,7 @@ Use the the following keys to play the guitar! <br>
 ![image](https://github.com/JessieG123/Guitar/blob/main/Piano%20Keys.png)
 
 ### To run Guitar:
+For Windows: <br>
 1. Download all files from `main` and save to a folder
 2. Open terminal and go into the `introcs-1.0` folder
 3. Run `python setup.py install --user`
