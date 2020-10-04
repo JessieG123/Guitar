@@ -4,7 +4,7 @@ Credit to Dr. Sonny Chan for creating this fun assignment.
 Python 3 <br>
 Booksite library from https://introcs.cs.princeton.edu/python/code/
 ## Guitar:
-Use the the following keys to play the guitar! <br>
+Use the the following computer keyboard keys to play the guitar! <br>
 ![image](https://github.com/JessieG123/Guitar/blob/main/Piano%20Keys.png)
 
 ### To run Guitar:
