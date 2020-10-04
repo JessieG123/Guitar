@@ -24,3 +24,7 @@ For Linux: <br>
 `python3 -m pip install -U pygame --user` <br>
 Then navigate to the `introcs-1.0` folder and run `python3 setup.py install --user`<br>
 Follow step 6 for Windows. 
+
+https://introcs.cs.princeton.edu/python/windows3/
+https://introcs.cs.princeton.edu/python/linux3/
+
