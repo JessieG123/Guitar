@@ -18,7 +18,7 @@ Install numpy, pygame and setuptools which can be done using `pip install numpy`
 5. At the Python `>>>` prompt enter in `import stdio`. If no errors show up, it means it's successful.
 6. Now step out of the folder and use the command `python p4-heroine.py` to run the game!
 
-For Linux: 
+For Linux: <br>
 `python3 -m pip install -U numpy --user` <br>
 `python3 -m pip install -U setuptools --user` <br>
 `python3 -m pip install -U pygame --user` <br>
