@@ -1,4 +1,5 @@
-## First Year Project
+## First Ever Programming Assignment - First Year Project
+
 ## Made with:
 Python 3 <br>
 Booksite library from https://introcs.cs.princeton.edu/python/code/
